@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://www.empreendedoresweb.com.br/wp-content/uploads/2017/03/como-trabalhar-em-casa.jpg');
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
